@@ -8,17 +8,31 @@
 
 <p align="justify"> Thoroughly examine motion and compare the performance of the contemporary and traditional optical flow estimation methods.</p>
 
+<h2 align="left">Tech Stack</h2>
 
-✵ Worked on SwiFlowNet, a 83 layer deep learning neural network based on a multi flow model that estimates the optical flow with GPU's assistance for computing and Tensorflow as the leading end-to-end machine learning platform. The traditional approach used the Farneback algorithm of optical flow estimation, the CPU for computing, and Open CV as the main library.
+- Programming Language - Python  
+- Development Environment - Google Colab 
+- Version Control and Collaboration - GitHub  
+- Data Analytics - Pandas, NumPy, Scikit-learn  
+- Machine Learning - Tensorflow  
+- Data Visualisation - Matplotlib 
+- Camera - Intel D435i, iphone 11
+- GPU - NVIDIA RTX 3090Ti, A100, V100, T4
+- CPU - Intel i9,i7, Macbook M2
+- OS - Windows,Mac OS, Linux(Ubuntu)
 
-✵ Evaluated Performance on the the NVIDIA A100, TESLA V100 and NVIDIA RTX 3090 Ti for the machine learning model computation. Intel core i9, Intel core i7, and M2 were the CPUs under the Linux, Windows and MAC operating systems for performance evaluation.
-
-✵ Performed statistical tests such as confidence interval and independent t-tests over a sample of 30 Videos shot through the Intel Real Sense D435i and the iPhone 11 to get confidence, difference and clarity.
-
-✵ Analysed the parameters such as error metrics, execution Time, memory usage, temperature, the performance of activation functions, the performance of Cameras, 95 % confidence test and independent t-test visually through data visualisation tools such as Tableau.
+<h2 align="left">Process Workflow</h2>
 
 
-References:- 
+<h2 align="left">Business Value</h2>
+
+- Evaluated Performance on the the NVIDIA A100, TESLA V100 and NVIDIA RTX 3090 Ti for the machine learning model computation. Intel core i9, Intel core i7, and M2 were the CPUs under the Linux, Windows and MAC operating systems for performance evaluation.
+
+- Performed statistical tests such as confidence interval and independent t-tests over a sample of 30 Videos shot through the Intel Real Sense D435i and the iPhone 11 to get confidence, difference and clarity.
+
+- Analysed the parameters such as error metrics, execution Time, memory usage, temperature, the performance of activation functions, the performance of Cameras, 95 % confidence test and independent t-test visually through data visualisation tools such as Tableau.
+
+<h2 align="left">References</h2>
 
 [1] S. Deqing, S. Roth and M.J. Black, "Secrets of optical flow estimation
 and their principles", 2010 IEEE computer society conference on Computer
