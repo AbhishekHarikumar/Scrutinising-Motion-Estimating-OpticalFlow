@@ -159,292 +159,298 @@ Cham. https://doi.org/10.1007/978-3-030-58536-5_33</p>
 Retrieved July 31, 2023, from
 https://www.cs.toronto.edu/~fleet/research/Papers/flowChapter05.pdf</p>
 
-[23] T-W. Hui, X. Tang and C. C. Loy, "LiteFlowNet: A Lightweight
+<p align="justify">[23] T-W. Hui, X. Tang and C. C. Loy, "LiteFlowNet: A Lightweight
 Convolutional Neural Network for Optical Flow Estimation," 2018 IEEE/CVF
 Conference on Computer Vision and Pattern Recognition, Salt Lake City, UT,
-USA, 2018, pp. 8981-8989, doi: 10.1109/CVPR.2018.00936.
+USA, 2018, pp. 8981-8989, doi: 10.1109/CVPR.2018.00936.</p>
 
-[24] A. Ranjan and M.J. Black, "Optical flow estimation using a spatial
-pyramid network", CVPR, pp. 4161-4170, 2017.
+<p align="justify">[24] A. Ranjan and M.J. Black, "Optical flow estimation using a spatial
+pyramid network", CVPR, pp. 4161-4170, 2017.</p>
 
-[25] D. Fortun, P. Bouthemy, and C. Kervrann (2015). Optical flow modeling
+<p align="justify">[25] D. Fortun, P. Bouthemy, and C. Kervrann (2015). Optical flow modeling
 and computation: a survey. Computer Vision and Image Understanding
-65
+65</p>
 
-[26] A. Geiger, P. Lenz, and R. Urtasun (2012). Are we ready for
+<p align="justify">[26] A. Geiger, P. Lenz, and R. Urtasun (2012). Are we ready for
 autonomous driving? The KITTI vision benchmark suite. 2012 IEEE
-Conference on Computer Vision and Pattern Recognition.
+Conference on Computer Vision and Pattern Recognition.</p>
 
-[27] D. J. Butler, J. Wulff, G. B. Stanley, and M. J. Black (2012). A naturalistic
+<p align="justify">[27] D. J. Butler, J. Wulff, G. B. Stanley, and M. J. Black (2012). A naturalistic
 open source movie for optical flow evaluation. In Computer Vision ECCV
-2012 (pp. 611–625). Springer Berlin Heidelberg.
+2012 (pp. 611–625). Springer Berlin Heidelberg.</p>
 
-[28] S. Baker, D. Scharstein, J. Lewis, S. Roth, M. J. Black, and R. Szeliski. A
-database and evaluation methodology for optical flow.In ICCV, 2007.
+<p align="justify">[28] S. Baker, D. Scharstein, J. Lewis, S. Roth, M. J. Black, and R. Szeliski. A
+database and evaluation methodology for optical flow.In ICCV, 2007.</p>
 
-[29] Metrics Performance Analysis of Optical Flow Taha Alhersh1 a , Samir
+<p align="justify">[29] Metrics Performance Analysis of Optical Flow Taha Alhersh1 a , Samir
 Brahim Belhaouari2 b and Heiner Stuckenschmidt1 c 1Data and Web
-Science Group. (n.d.). In 2College of Science and Engineering.
+Science Group. (n.d.). In 2College of Science and Engineering.</p>
 
-[30] Depth Camera D435. (2019, February 20). Intel® RealSenseTM Depth
+<p align="justify">[30] Depth Camera D435. (2019, February 20). Intel® RealSenseTM Depth
 and Tracking Cameras; Intel RealSense.
-https://www.intelrealsense.com/depth-camera-d435/
+https://www.intelrealsense.com/depth-camera-d435/</p>
 
-[31] IPhone 11 technical specifications. (n.d.). Apple.com. Retrieved 21
-August 2023, from https://support.apple.com/kb/SP804?locale=en_GB
+<p align="justify">[31] IPhone 11 technical specifications. (n.d.). Apple.com. Retrieved 21
+August 2023, from https://support.apple.com/kb/SP804?locale=en_GB</p>
 
-[32] (N.d.). SINTEL.Is. Retrieved August 22, 2023, from
-http://SINTEL.is/downloads
+<p align="justify">[32] (N.d.). SINTEL.Is. Retrieved August 22, 2023, from
+http://SINTEL.is/downloads</p>
 
-[33] L. Alzubaidi, J.Zhang, A. J. Humaidi, A. Al-Dujaili, Y. Duan, O.
+<p align="justify">[33] L. Alzubaidi, J.Zhang, A. J. Humaidi, A. Al-Dujaili, Y. Duan, O.
 Al-Shamma, J. Santamaría, M.A. Fadhel, M. Al-Amidie, and L. Farhan (2021).
 Review of deep learning: concepts, CNN architectures, challenges,
 applications, future directions. Journal of Big Data, 8(1).
-https://doi.org/10.1186/s40537-021-00444-8
+https://doi.org/10.1186/s40537-021-00444-8</p>
 
-[34] A. Khan, A. Sohail, U. Zahoora, and Qureshi, A. S. (2019). A survey of
+<p align="justify">[34] A. Khan, A. Sohail, U. Zahoora, and Qureshi, A. S. (2019). A survey of
 the recent architectures of deep convolutional Neural Networks. In arXiv
-[cs.CV]. http://arxiv.org/abs/1901.06032
+[cs.CV]. http://arxiv.org/abs/1901.06032</p>
 
-[35] B. Quoc (n.d.). Searching For Activation Functions Prajit
-Ramachandran.
+<p align="justify">[35] B. Quoc (n.d.). Searching For Activation Functions Prajit
+Ramachandran.</p>
 
-[36] C. Szegedy, S. Ioffe, V. Vanhoucke, A. and Alemi (2016). Inception-v4,
+<p align="justify">[36] C. Szegedy, S. Ioffe, V. Vanhoucke, A. and Alemi (2016). Inception-v4,
 Inception-ResNet and the impact of residual connections on learning. In
-arXiv [cs.CV]. http://arxiv.org/abs/1602.0726
+arXiv [cs.CV]. http://arxiv.org/abs/1602.0726</p>
 
-[37] Lin, C.-E. (2019, April 24). Introduction to motion estimation with
+<p align="justify">[37] Lin, C.-E. (2019, April 24). Introduction to motion estimation with
 Optical Flow. Nanonets AI and Machine Learning Blog.
-https://nanonets.com/blog/optical-flow/66
+https://nanonets.com/blog/optical-flow/66</p>
 
-[38] Motion Analysis and Object Tracking — OpenCV 3.0.0-dev
+<p align="justify">[38] Motion Analysis and Object Tracking — OpenCV 3.0.0-dev
 documentation. (n.d.). Opencv.org. Retrieved 26 August 2023, from
 https://docs.opencv.org/3.0-beta/modules/video/doc/motion_analysis_an
-d_object_tracking.html?ref=nanonets.com
+d_object_tracking.html?ref=nanonets.com</p>
 
-[39] C. Vogel, S. Roth, K. Schindler (2013). An Evaluation of Data Costs for
+<p align="justify">[39] C. Vogel, S. Roth, K. Schindler (2013). An Evaluation of Data Costs for
 Optical Flow. In: Weickert, J., Hein, M., Schiele, B. (eds) Pattern Recognition.
 GCPR 2013. Lecture Notes in Computer Science, vol 8142. Springer, Berlin,
-Heidelberg. https://doi.org/10.1007/978-3-642-40602-7_37
+Heidelberg. https://doi.org/10.1007/978-3-642-40602-7_37</p>
 
-[40] B. Chiang and J. Bohg (n.d.). Optical and scene flow. Stanford.edu.
-Retrieved 26 August2023,from,https://web.stanford.edu/class/cs231a/course_notes/09- optical-flow.pdf
+<p align="justify">[40] B. Chiang and J. Bohg (n.d.). Optical and scene flow. Stanford.edu.
+Retrieved 26 August2023,from,https://web.stanford.edu/class/cs231a/course_notes/09- optical-flow.pdf</p>
 
-[41] A. Plyer, G. Le Besnerais and F. Champagnat Massively parallel
+<p align="justify">[41] A. Plyer, G. Le Besnerais and F. Champagnat Massively parallel
 Lucas-Kanade optical flow for real-time video processing applications. J Real-Time Image Proc 11, 713–730 (2016).
-https://doi.org/10.1007/s11554-014-0423-0
+https://doi.org/10.1007/s11554-014-0423-0</p>
 
-[42] L. Guan, L. Zhai, H. Cai, P. Zhang, Y. Li, J. Chu, R. Jin, and H. Xie (2020).
+<p align="justify">[42] L. Guan, L. Zhai, H. Cai, P. Zhang, Y. Li, J. Chu, R. Jin, and H. Xie (2020).
 Study on displacement estimation in low illumination environment through
 polarized contrast-enhanced optical flow method for polarization
 navigation applications. Optik, 210(164513), 164513.
-https://doi.org/10.1016/j.ijleo.2020.164513
+https://doi.org/10.1016/j.ijleo.2020.164513</p>
 
-[43] R. Marsal, F. Chabot, A. Loesch, and H. Sahbi (n.d.). BrightFlow:
+<p align="justify">[43] R. Marsal, F. Chabot, A. Loesch, and H. Sahbi (n.d.). BrightFlow:
 Brightness-change-aware unsupervised learning of optical flow.
 Thecvf.com. Retrieved August 30, 2023, from
 https://openaccess.thecvf.com/content/WACV2023/papers/Marsal_BrightF
 low_Brightness-Change-Aware_Unsupervised_Learning_of_Optical_Flow_
-WACV_2023_paper.pdf
+WACV_2023_paper.pdf</p>
 
-[44] (N.d.). Researchgate.net. Retrieved August 30, 2023, from
+<p align="justify">[44] (N.d.). Researchgate.net. Retrieved August 30, 2023, from
 https://www.researchgate.net/publication/221002534_Optical_flow_using
-_color_information
+_color_information</p>
 
-[45] V. Sze, Y-H. Chen, J. Emer, A. Suleiman, and Z. Zhang (n.d.). Hardware for Machine Learning: Challenges and Opportunities. Arxiv.org. Retrieved
-August 30, 2023, from http://arxiv.org/abs/1612.07625
+<p align="justify">[45] V. Sze, Y-H. Chen, J. Emer, A. Suleiman, and Z. Zhang (n.d.). Hardware for Machine Learning: Challenges and Opportunities. Arxiv.org. Retrieved
+August 30, 2023, from http://arxiv.org/abs/1612.07625</p>
 
-[46] B. Ko, H-G. Kim, K-J. Oh and H-J. Choi, "Controlled dropout: A different
+<p align="justify">[46] B. Ko, H-G. Kim, K-J. Oh and H-J. Choi, "Controlled dropout: A different
 approach to using dropout on deep neural network," 2017 IEEE
 International Conference on Big Data and Smart Computing (BigComp),67
-Jeju, Korea (South), 2017, pp. 358-362, doi: 10.1109/BIGCOMP.2017.7881693.
+Jeju, Korea (South), 2017, pp. 358-362, doi: 10.1109/BIGCOMP.2017.7881693.</p>
 
-[47] N. Srivastava, G. Hinton, A. Krizhevsky, I. Sutskever, and R.
+<p align="justify">[47] N. Srivastava, G. Hinton, A. Krizhevsky, I. Sutskever, and R.
 Salakhutdinov (n.d.). Dropout: A simple way to prevent neural networks
 from overfitting. Toronto.edu. Retrieved 30 August 2023, from
-https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf
+https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf</p>
 
-[48] W. Wang, "Confidence Intervals for Ultra-High Reliability:
+<p align="justify">[48] W. Wang, "Confidence Intervals for Ultra-High Reliability:
 Computations, Comparisons and Recommendations," 2018 Annual
 Reliability and Maintainability Symposium (RAMS), Reno, NV, USA, 2018,
-pp. 1-5, doi: 10.1109/RAM.2018.8463069.
+pp. 1-5, doi: 10.1109/RAM.2018.8463069.</p>
 
-[49] N. Hu and E-H. Yang, "Confidence interval based motion estimation,"
+<p align="justify">[49] N. Hu and E-H. Yang, "Confidence interval based motion estimation,"
 2013 IEEE International Conference on Image Processing, Melbourne, VIC,
-Australia, 2013, pp. 1588-1592, doi: 10.1109/ICIP.2013.6738327.
+Australia, 2013, pp. 1588-1592, doi: 10.1109/ICIP.2013.6738327.</p>
 
-[50] R. Sanchez-Matilla and A. Cavallaro, "Confidence Intervals for Tracking
+<p align="justify">[50] R. Sanchez-Matilla and A. Cavallaro, "Confidence Intervals for Tracking
 Performance Scores," 2018 25th IEEE International Conference on Image
 Processing (ICIP), Athens, Greece, 2018, pp. 246-250, doi:
-10.1109/ICIP.2018.8451433.
+10.1109/ICIP.2018.8451433.</p>
 
-[51] D. W. Coit, "System-reliability confidence-intervals for
+<p align="justify">[51] D. W. Coit, "System-reliability confidence-intervals for
 complex-systems with estimated component-reliability," in IEEE
 Transactions on Reliability, vol. 46, no. 4, pp. 487-493, Dec. 1997, doi:
-10.1109/24.693781.
+10.1109/24.693781.</p>
 
-[52] B. Allaert, I. R. Ward, I.M.Bilasco, C. Djeraba, and M. Bennamoun
+<p align="justify">[52] B. Allaert, I. R. Ward, I.M.Bilasco, C. Djeraba, and M. Bennamoun
 (n.d.). A comparative study on Optical Flow for Facial Expression Analysis.
-Arxiv.org. Retrieved 31 August 2023, from http://arxiv.org/abs/1904.11592
+Arxiv.org. Retrieved 31 August 2023, from http://arxiv.org/abs/1904.11592</p>
 
-[53] https://github.com/Anshul12256/MultiFlow-Optical-Flow-Estimation-Using
--Deep-Neural-Networks
+<p align="justify">[53] https://github.com/Anshul12256/MultiFlow-Optical-Flow-Estimation-Using
+-Deep-Neural-Networks</p>
 
-[54] J. Schmidhuber (n.d.). Annotated history of modern AI and deep
+<p align="justify">[54] J. Schmidhuber (n.d.). Annotated history of modern AI and deep
 learning. Arxiv.org. Retrieved 4 September 2023, from
-http://arxiv.org/abs/2212.11279
+http://arxiv.org/abs/2212.11279</p>
 
-[55] H. Rashed, A. El Sallab, S. Yogamani, and M. ElHelw, “Motion and
+<p align="justify">[55] H. Rashed, A. El Sallab, S. Yogamani, and M. ElHelw, “Motion and
 depth augmented semantic segmentation for autonomous navigation,” in
 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
-Recognition Workshops, 2019.68
+Recognition Workshops, 2019.68</p>
 
-[56] The KITTI Vision Benchmark Suite. (n.d.). Cvlibs.net. Retrieved 6
-September 2023, from https://www.cvlibs.net/datasets/kitti/
+<p align="justify">[56] The KITTI Vision Benchmark Suite. (n.d.). Cvlibs.net. Retrieved 6
+September 2023, from https://www.cvlibs.net/datasets/kitti/</p>
 
-[57] M. Au-Yong-Oliveira, C. Lopes, F. Soares, G. Pinheiro and P. Guimarães,
+<p align="justify">[57] M. Au-Yong-Oliveira, C. Lopes, F. Soares, G. Pinheiro and P. Guimarães,
 "What can we expect from the future? The impact of Artificial Intelligence
 on Society," 2020 15th Iberian Conference on Information Systems and
 Technologies (CISTI), Seville, Spain, 2020, pp. 1-6, doi:
-10.23919/CISTI49556.2020.9140903.
+10.23919/CISTI49556.2020.9140903.</p>
 
-[58] B. Marr (2023, June 15). Why companies are vastly underprepared for
+<p align="justify">[58] B. Marr (2023, June 15). Why companies are vastly underprepared for
 the risks posed by AI. Forbes.
 https://www.forbes.com/sites/bernardmarr/2023/06/15/why-companies-a
-re-vastly-underprepared-for-the-risks-posed-by-ai
+re-vastly-underprepared-for-the-risks-posed-by-ai</p>
 
-[59] Biswal, A. (2020, September 18). 7 types of artificial intelligence that you should know in 2023. Simplilearn.com;
+<p align="justify">[59] Biswal, A. (2020, September 18). 7 types of artificial intelligence that you should know in 2023. Simplilearn.com;
 Simplilearn.https://www.simplilearn.com/tutorials/artificial-intelligence-tut
-orial/types-of-artificial-intelligence.
+orial/types-of-artificial-intelligence.</p>
 
-[60] TensorFlow. (n.d.). TensorFlow. Retrieved 8 September 2023, from
-https://www.tensorflow.org/
+<p align="justify">[60] TensorFlow. (n.d.). TensorFlow. Retrieved 8 September 2023, from
+https://www.tensorflow.org/</p>
 
-[61] Tf.Keras.Optimizers.AdamW. (n.d.). TensorFlow. Retrieved 8
+<p align="justify">[61] Tf.Keras.Optimizers.AdamW. (n.d.). TensorFlow. Retrieved 8
 September2023,fromhttps://www.tensorflow.org/api_docs/python/tf/kera
-s/optimizers/AdamW
+s/optimizers/AdamW</p>
 
-[62] https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/experim
-ental/SGD
+<p align="justify">[62] https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/experim
+ental/SGD</p>
 
-[63] NumPy. (n.d.). Numpy.org. Retrieved 8 September 2023, from
-https://numpy.org/
+<p align="justify">[63] NumPy. (n.d.). Numpy.org. Retrieved 8 September 2023, from
+https://numpy.org/</p>
 
-[64] Pandas documentation — pandas 2.1.0 documentation. (n.d.).
+<p align="justify">[64] Pandas documentation — pandas 2.1.0 documentation. (n.d.).
 Pydata.org. Retrieved 8 September 2023, from
-https://pandas.pydata.org/docs/
+https://pandas.pydata.org/docs/</p>
 
-[65] Matplotlib — visualization with python. (n.d.). Matplotlib.org.
-Retrieved 8 September 2023, from https://matplotlib.org/
+<p align="justify">[65] Matplotlib — visualization with python. (n.d.). Matplotlib.org.
+Retrieved 8 September 2023, from https://matplotlib.org/</p>
 
-[66] Keras: Deep learning for humans. (n.d.). Keras.Io. Retrieved 8
-September 2023, from https://keras.io/69
+<p align="justify">[66] Keras: Deep learning for humans. (n.d.). Keras.Io. Retrieved 8
+September 2023, from https://keras.io/69</p>
 
-[67] SciPy. (n.d.). Scipy.org. Retrieved 8 September 2023, from
-https://scipy.org/
+<p align="justify">[67] SciPy. (n.d.). Scipy.org. Retrieved 8 September 2023, from
+https://scipy.org/</p>
 
-[68] Opencv-python. (n.d.). PyPI. Retrieved 8 September 2023, from
-https://pypi.org/project/opencv-python/
+<p align="justify">[68] Opencv-python. (n.d.). PyPI. Retrieved 8 September 2023, from
+https://pypi.org/project/opencv-python/</p>
 
-[69] Pillow. (n.d.). PyPI. Retrieved 8 September 2023, from
-https://pypi.org/project/Pillow/
+<p align="justify">[69] Pillow. (n.d.). PyPI. Retrieved 8 September 2023, from
+https://pypi.org/project/Pillow/</p>
 
-[70] os — Miscellaneous operating system interfaces. (n.d.). Python
-Documentation. Retrieved 8 September 2023, from https://docs.python.org/3/library/os.html
+<p align="justify">[70] os — Miscellaneous operating system interfaces. (n.d.). Python
+Documentation. Retrieved 8 September 2023, from https://docs.python.org/3/library/os.html</p>
 
-[71] time — Time access and conversions. (n.d.). Python Documentation.
-Retrieved 8 September 2023, from https://docs.python.org/3/library/time.html
+<p align="justify">[71] time — Time access and conversions. (n.d.). Python Documentation.
+Retrieved 8 September 2023, from https://docs.python.org/3/library/time.html</p>
 
-[72] Welcome to. (n.d.). Python.org. Retrieved 8 September 2023, from
-https://www.python.org/
+<p align="justify">[72] Welcome to. (n.d.). Python.org. Retrieved 8 September 2023, from
+https://www.python.org/</p>
 
-[73] Colab.Google. (n.d.). Colab.Google. Retrieved 8 September 2023, from
-https://colab.google/
+<p align="justify">[73] Colab.Google. (n.d.). Colab.Google. Retrieved 8 September 2023, from
+https://colab.google/</p>
 
-[74] L. Jiaxi, "The Application and Research of T-test in Medicine," 2010
+<p align="justify">[74] L. Jiaxi, "The Application and Research of T-test in Medicine," 2010
 First International Conference on Networking and Distributed Computing,
-Hangzhou, China, 2010, pp. 321-323, doi: 10.1109/ICNDC.2010.70.
+Hangzhou, China, 2010, pp. 321-323, doi: 10.1109/ICNDC.2010.70.</p>
 
-[75] T. Riaji, S. E. Hassani and F. E. M. Alaoui, "Application of Paired
+<p align="justify">[75] T. Riaji, S. E. Hassani and F. E. M. Alaoui, "Application of Paired
 Samples t-Test in Engineering Service-Learning Project," 2022 11th
 International Symposium on Signal, Image, Video and Communications
 (ISIVC), El Jadida, Morocco, 2022, pp. 1-4, doi: 10.1109/ISIVC54825.2022.9800209.
 
-[76] K. M. Htay, R. R. Othman, A. Amir, H. L. Zakaria and N. Ramli, "A
+<p align="justify">[76] K. M. Htay, R. R. Othman, A. Amir, H. L. Zakaria and N. Ramli, "A
 Pairwise T-Way Test Suite Generation Strategy Using Gravitational Search
 Algorithm," 2021 International Conference on Artificial Intelligence and
-Computer Science Technology (ICAICST), Yogyakarta, Indonesia, 2021, pp. 7-12, doi: 10.1109/ICAICST53116.2021.9497823.
+Computer Science Technology (ICAICST), Yogyakarta, Indonesia, 2021, pp. 7-12, doi: 10.1109/ICAICST53116.2021.9497823.</p>
 
-[77] K-T. Shih and H. H. Chen, "Generating High-Resolution Image and
+<p align="justify">[77] K-T. Shih and H. H. Chen, "Generating High-Resolution Image and
 Depth Map Using a Camera Array With Mixed Focal Lengths," in IEEE
 Transactions on Computational Imaging, vol. 5, no. 1, pp. 68-81, March
-2019, doi: 10.1109/TCI.2018.2871391.70
+2019, doi: 10.1109/TCI.2018.2871391.70</p>
 
-[78] S. J. Raudys and A. K. Jain, "Small sample size effects in statistical
+<p align="justify">[78] S. J. Raudys and A. K. Jain, "Small sample size effects in statistical
 pattern recognition: recommendations for practitioners," in IEEE
 Transactions on Pattern Analysis and Machine Intelligence, vol. 13, no. 3,
-pp. 252-264, March 1991, doi: 10.1109/34.75512.
+pp. 252-264, March 1991, doi: 10.1109/34.75512.</p>
 
-[79] Independent T-Test – An introduction to when to use this test and
+<p align="justify">[79] Independent T-Test – An introduction to when to use this test and
 what are the variables required. (n.d.). Laerd.com. Retrieved 9 September
-2023, from https://statistics.laerd.com/statistical-guides/independent-t-test-statistical￾guide.php
+2023, from https://statistics.laerd.com/statistical-guides/independent-t-test-statistical￾guide.php</p>
 
-[80] R. Dasoriya, J. Rajpopat, R. Jamar and M. Maurya, "The Uncertain
+<p align="justify">[80] R. Dasoriya, J. Rajpopat, R. Jamar and M. Maurya, "The Uncertain
 Future of Artificial Intelligence," 2018 8th International Conference on
 Cloud Computing, Data Science and Engineering (Confluence), Noida, India,
-2018, pp. 458-461, doi: 10.1109/CONFLUENCE.2018.8442945.
+2018, pp. 458-461, doi: 10.1109/CONFLUENCE.2018.8442945.</p>
 
-[81] (N.d.-b). Pexels.com. Retrieved 11 September 2023, from
-https://www.pexels.com/video/2880726/
+<p align="justify">[81] (N.d.-b). Pexels.com. Retrieved 11 September 2023, from
+https://www.pexels.com/video/2880726/</p>
 
-[82] (N.d.-c). Nvidia.com. Retrieved 11 September 2023, from
+<p align="justify">[82] (N.d.-c). Nvidia.com. Retrieved 11 September 2023, from
 https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/ampere/rtx
--3090/geforce-rtx-3090-shop-600-p@2x.png
+-3090/geforce-rtx-3090-shop-600-p@2x.png</p>
 
-[83] (N.d.-d). Nvidia.com. Retrieved 11 September 2023, from
+<p align="justify">[83] (N.d.-d). Nvidia.com. Retrieved 11 September 2023, from
 https://www.nvidia.com/content/dam/en-zz/es_em/es_em/Solutions/Data
--Center/tesla-v100/data-center-tesla-v100-nvlink-625-ud@2x.jpg
+-Center/tesla-v100/data-center-tesla-v100-nvlink-625-ud@2x.jpg</p>
 
-[84] (N.d.-e). Wikimedia.org. Retrieved 11 September 2023, from
+<p align="justify">[84] (N.d.-e). Wikimedia.org. Retrieved 11 September 2023, from
 https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.s
-vg
+vg</p>
 
-[85] (N.d.-f). Wikimedia.org. Retrieved 11 September 2023, from
+<p align="justify">[85] (N.d.-f). Wikimedia.org. Retrieved 11 September 2023, from
 https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/12
-00px-Tux.svg.png
+00px-Tux.svg.png</p>
 
-[86] (N.d.-g). Wikimedia.org. Retrieved 11 September 2023, from
+<p align="justify">[86] (N.d.-g). Wikimedia.org. Retrieved 11 September 2023, from
 https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_l
-ogo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png
+ogo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png</p>
 
-[87] FFmpeg. (n.d.). Ffmpeg.org. Retrieved 16 September 2023, from
-https://ffmpeg.org/
+<p align="justify">[87] FFmpeg. (n.d.). Ffmpeg.org. Retrieved 16 September 2023, from
+https://ffmpeg.org/</p>
 
-[88] What is R? (n.d.). R-project.org. Retrieved 16 September 2023, from
-https://www.r-project.org/about.html 71
+<p align="justify">[88] What is R? (n.d.). R-project.org. Retrieved 16 September 2023, from
+https://www.r-project.org/about.html 71</p>
 
+<p align="justify">[88] What is R? (n.d.). R-project.org. Retrieved 16 September 2023, from
 [89] S. A. Abdul Ameer, R. Khalid, A. H. O. Al Mansor and P. Singh, "Hybrid
 Deep Neural Networks for Improved Sentiment Analysis in Social Media,"
 2023 Third International Conference on Secure Cyber Computing and
 Communication (ICSCCC), Jalandhar, India, 2023, pp. 542-547, doi:
-10.1109/ICSCCC58608.2023.10176880.
+10.1109/ICSCCC58608.2023.10176880.</p>
 
+<p align="justify">[88] What is R? (n.d.). R-project.org. Retrieved 16 September 2023, from
 [90] H. Zhao and L. Chen, "Artificial Intelligence Security Issues and
 Responses," 2020 IEEE 6th International Conference on Computer and
 Communications (ICCC), Chengdu, China, 2020, pp. 2276-2283, doi:
-10.1109/ICCC51575.2020.9345035.
+10.1109/ICCC51575.2020.9345035.</p>
 
+<p align="justify">[88] What is R? (n.d.). R-project.org. Retrieved 16 September 2023, from
 [91] N. Mayer, E. Ilg, P. Häusser, P. Fischer, D. Cremers, A. Dosovitskiy and T.
-Brox (n.d.). FlyingThings3D Dataset [Data set].
+Brox (n.d.). FlyingThings3D Dataset [Data set].</p>
 
+<p align="justify">[88] What is R? (n.d.). R-project.org. Retrieved 16 September 2023, from
 [92] D. C. Schmidt, M. Deshpande and C. O'Ryan, "Operating system
 performance in support of real-time middleware," Proceedings of the
 Seventh IEEE International Workshop on Object-Oriented Real-Time
 Dependable Systems. (WORDS 2002), San Diego, CA, USA, 2002, pp.
-199-206, doi: 10.1109/WORDS.2002.1000053.
+199-206, doi: 10.1109/WORDS.2002.1000053.</p>
 
-[93] A. S. Bansal (n.d.). No title.
+<p align="justify">[88] What is R? (n.d.). R-project.org. Retrieved 16 September 2023, from
+[93] A. S. Bansal (n.d.). No title.</p>
 
+<p align="justify">[88] What is R? (n.d.). R-project.org. Retrieved 16 September 2023, from
 [94] M. Nicely (n.d.). Overview - CUDA python 12.2.0 documentation.
 Github.Io. Retrieved 25 September 2023, from
 https://nvidia.github.io/cuda-python/overview.html 72
