@@ -4,6 +4,10 @@
 
 <p align="justify"> The model thoroughly examines motion and compares the performance of contemporary and traditional optical flow estimation methods. This is achieved using multiple GPUs and CPUs, parameter tuning, and diverse real-world scenarios. Furthermore, statistical analysis tests, such as confidence intervals and independent t-tests, are conducted on 30 videos to demonstrate the optimal method, thereby contributing to the field of optical flow in computer vision.</p>
 
+<h2 align = "left">Objective</h2>
+
+<p align="justify"> Thoroughly examine motion and compare the performance of the contemporary and traditional optical flow estimation methods.</p>
+
 
 ✵ Worked on SwiFlowNet, a 83 layer deep learning neural network based on a multi flow model that estimates the optical flow with GPU's assistance for computing and Tensorflow as the leading end-to-end machine learning platform. The traditional approach used the Farneback algorithm of optical flow estimation, the CPU for computing, and Open CV as the main library.
 
