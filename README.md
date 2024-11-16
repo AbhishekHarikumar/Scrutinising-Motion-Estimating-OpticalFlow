@@ -23,7 +23,7 @@
   
 <h2 align="left" style="text-align: justify;">Process Workflow</h2>
 
-- <p align="justify"> Conduct research on various machine learning models and classical models to determine which one best suits the requirements, computational resources, and time constraints</p>.
+- <p align="justify"> Conduct research on various machine learning models and classical models to determine which one best suits the requirements,   computational resources, and time constraints</p>.
 - <p align="justify">Gather the Ground Truth from Flying Chairs and MPI Sintel datasets</p>.
 - <p align="justify">Capture the videos for optical flow estimation using the specified cameras.</p>
 - <p align="justify">Build the framework to appropriately input data from Google Drive.</p>
