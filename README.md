@@ -23,25 +23,26 @@
   
 <h2 align="left" style="text-align: justify;">Process Workflow</h2>
 
-- Conduct research on various machine learning models and classical models to determine which one best suits the requirements, computational resources, and time constraints.
-- Gather the Ground Truth from Flying Chairs and MPI Sintel datasets.
-- Capture the videos for optical flow estimation using the specified cameras.
-- Build the framework to appropriately input data from Google Drive. Use FFmpeg for image resizing into the shape of 436 x 1024.
-- Set up the TensorFlow architecture to handle both input and output using the videos collected and the dataset's ground truth.
-- Build an 83-layer Deep Neural Network with 34 Convolutional 2D layers, 6 Convolution Transpose layers, 30 Activation layers, 8 Concatenation layers, 1 Correlation Cost layer, and 1 Flow Resized layer.
-- Test with a variety of combinations of activation functions and optimisers, including Sigmoid, Swish, LeakyReLU, Adam, and SGD.
-- Attach the custom loss function—Weighted End Point Error.
-- Run tests for each video for 20 epochs with a batch size of 6.
-- Conduct independent t-tests and hypothesis testing to assess performance.
-- Record and present findings in Tableau to stakeholders.
+- <p align="justify"> Conduct research on various machine learning models and classical models to determine which one best suits the requirements, computational resources, and time constraints</p>.
+- <p align="justify">Gather the Ground Truth from Flying Chairs and MPI Sintel datasets</p>.
+- <p align="justify">Capture the videos for optical flow estimation using the specified cameras.</p>
+- <p align="justify">Build the framework to appropriately input data from Google Drive.</p>
+- <p align="justify">Use FFmpeg for image resizing into the shape of 436 x 1024.</p>
+- <p align="justify">Set up the TensorFlow architecture to handle both input and output using the videos collected and the dataset's ground truth.</p>
+- <p align="justify">Build an 83-layer Deep Neural Network with 34 Convolutional 2D layers, 6 Convolution Transpose layers, 30 Activation layers, 8 Concatenation layers, 1 Correlation Cost layer, and 1 Flow Resized layer.</p>
+- <p align="justify">Test with a variety of combinations of activation functions and optimisers, including Sigmoid, Swish, LeakyReLU, Adam, and SGD.</p>
+- <p align="justify">Attach the custom loss function—Weighted End Point Error.</p>
+- <p align="justify">Run tests for each video for 20 epochs with a batch size of 6.</p>
+- <p align="justify">Conduct independent t-tests and hypothesis testing to assess performance.</p>
+- <p align="justify">Record and present findings in Tableau to stakeholders.</p>
 
 <h2 align="left">Business Value</h2>
 
-- Evaluated Performance on the the NVIDIA A100, TESLA V100 and NVIDIA RTX 3090 Ti for the machine learning model computation. Intel core i9, Intel core i7, and M2 were the CPUs under the Linux, Windows and MAC operating systems for performance evaluation.
+- <p align="justify">Evaluated Performance on the the NVIDIA A100, TESLA V100 and NVIDIA RTX 3090 Ti for the machine learning model computation. Intel core i9, Intel core i7, and M2 were the CPUs under the Linux, Windows and MAC operating systems for performance evaluation</p>.
 
-- Performed statistical tests such as confidence interval and independent t-tests over a sample of 30 Videos shot through the Intel Real Sense D435i and the iPhone 11 to get confidence, difference and clarity.
+- <p align="justify">Performed statistical tests such as confidence interval and independent t-tests over a sample of 30 Videos shot through the Intel Real Sense D435i and the iPhone 11 to get confidence, difference and clarity</p>.
 
-- Analysed the parameters such as error metrics, execution Time, memory usage, temperature, the performance of activation functions, the performance of Cameras, 95 % confidence test and independent t-test visually through data visualisation tools such as Tableau.
+- <p align="justify">Analysed the parameters such as error metrics, execution Time, memory usage, temperature, the performance of activation functions, the performance of Cameras, 95 % confidence test and independent t-test visually through data visualisation tools such as Tableau.</p>
 
 <h2 align="left" style="text-align: justify;">References</h2>
 
