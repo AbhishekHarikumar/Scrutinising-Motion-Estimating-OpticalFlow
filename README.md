@@ -22,6 +22,7 @@
 - OS - Windows,Mac OS, Linux(Ubuntu)
   
 <h2 align="left" style="text-align: justify;">Process Workflow</h2>
+
 Conduct research on various machine learning models and classical models to determine which one best suits the requirements, computational resources, and time constraints.
 Gather the Ground Truth from Flying Chairs and MPI Sintel datasets. Capture the videos for optical flow estimation using the specified cameras.
 Build the framework to appropriately input data from Google Drive. Use FFmpeg for image resizing into the shape of 436 x 1024. Set up the TensorFlow architecture to handle both input and output using the videos collected and the dataset's ground truth.
