@@ -43,9 +43,9 @@
 
 <h2 align="left">Business Value</h2>
 
-- <p align="justify">Evaluated Performance on the the NVIDIA A100, TESLA V100 and NVIDIA RTX 3090 Ti for the machine learning model computation. Intel core i9, Intel core i7, and M2 were the CPUs under the Linux, Windows and MAC operating systems for performance evaluation</p>.
+- <p align="justify">Evaluated Performance on the the NVIDIA A100, TESLA V100 and NVIDIA RTX 3090 Ti for the machine learning model computation. Intel core i9, Intel core i7, and M2 were the CPUs under the Linux, Windows and MAC operating systems for performance evaluation.</p>
 
-- <p align="justify">Performed statistical tests such as confidence interval and independent t-tests over a sample of 30 Videos shot through the Intel Real Sense D435i and the iPhone 11 to get confidence, difference and clarity</p>.
+- <p align="justify">Performed statistical tests such as confidence interval and independent t-tests over a sample of 30 Videos shot through the Intel Real Sense D435i and the iPhone 11 to get confidence, difference and clarity.</p>
 
 - <p align="justify">Analysed the parameters such as error metrics, execution Time, memory usage, temperature, the performance of activation functions, the performance of Cameras, 95 % confidence test and independent t-test visually through data visualisation tools such as Tableau.</p>
 
