@@ -21,15 +21,20 @@
 - CPU - Intel i9,i7, Macbook M2
 - OS - Windows,Mac OS, Linux(Ubuntu)
   
-<h2 align="left" style="text-align: justify;">Process Workflow</h2>
+<h2 align="left">Process Workflow</h2>
 
 - <p align="justify"> Conduct research on various machine learning models and classical models to determine which one best suits the requirements,   computational resources, and time constraints</p>.
+
 - <p align="justify">Gather the Ground Truth from Flying Chairs and MPI Sintel datasets</p>.
+
 - <p align="justify">Capture the videos for optical flow estimation using the specified cameras.</p>
+
 - <p align="justify">Build the framework to appropriately input data from Google Drive.</p>
 - <p align="justify">Use FFmpeg for image resizing into the shape of 436 x 1024.</p>
 - <p align="justify">Set up the TensorFlow architecture to handle both input and output using the videos collected and the dataset's ground truth.</p>
+
 - <p align="justify">Build an 83-layer Deep Neural Network with 34 Convolutional 2D layers, 6 Convolution Transpose layers, 30 Activation layers, 8 Concatenation layers, 1 Correlation Cost layer, and 1 Flow Resized layer.</p>
+
 - <p align="justify">Test with a variety of combinations of activation functions and optimisers, including Sigmoid, Swish, LeakyReLU, Adam, and SGD.</p>
 - <p align="justify">Attach the custom loss function—Weighted End Point Error.</p>
 - <p align="justify">Run tests for each video for 20 epochs with a batch size of 6.</p>
