@@ -50,7 +50,7 @@
 - <p align="justify">Analysed the parameters such as error metrics, execution Time, memory usage, temperature, the performance of activation functions, the performance of Cameras, 95 % confidence test and independent t-test visually through data visualisation tools such as Tableau.</p>
 
 <h2 align="left" style="text-align: justify;">References</h2>
-
+<p align="justify">
 [1] S. Deqing, S. Roth and M.J. Black, "Secrets of optical flow estimation
 and their principles", 2010 IEEE computer society conference on Computer
 Vision and pattern recognition, pp. 2432-2439, 2010.
@@ -447,3 +447,4 @@ Dependable Systems. (WORDS 2002), San Diego, CA, USA, 2002, pp.
 [94] M. Nicely (n.d.). Overview - CUDA python 12.2.0 documentation.
 Github.Io. Retrieved 25 September 2023, from
 https://nvidia.github.io/cuda-python/overview.html 72
+</p>
