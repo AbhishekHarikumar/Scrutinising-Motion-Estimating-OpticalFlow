@@ -50,113 +50,114 @@
 - <p align="justify">Analysed the parameters such as error metrics, execution Time, memory usage, temperature, the performance of activation functions, the performance of Cameras, 95 % confidence test and independent t-test visually through data visualisation tools such as Tableau.</p>
 
 <h2 align="left" style="text-align: justify;">References</h2>
-<p align="justify">
-[1] S. Deqing, S. Roth and M.J. Black, "Secrets of optical flow estimation
+
+<p align="justify"> [1] S. Deqing, S. Roth and M.J. Black, "Secrets of optical flow estimation
 and their principles", 2010 IEEE computer society conference on Computer
-Vision and pattern recognition, pp. 2432-2439, 2010.
+Vision and pattern recognition, pp. 2432-2439, 2010.</p>
 
-[2] A. Giachetti, M. Campani and V. Torre, "The use of optical flow for road
+<p align="justify"> [2] A. Giachetti, M. Campani and V. Torre, "The use of optical flow for road
 navigation," in IEEE Transactions on Robotics and Automation, vol. 14, no.
-1, pp. 34-48, Feb. 1998, doi: 10.1109/70.660838.
+1, pp. 34-48, Feb. 1998, doi: 10.1109/70.660838.</p>
 
-[3] M. Khalid, L. Pénard and E. Mémin, "Application of optical flow for river
+<p align="justify"> [3] M. Khalid, L. Pénard and E. Mémin, "Application of optical flow for river
 velocimetry," 2017 IEEE International Geoscience and Remote Sensing
 Symposium (IGARSS), Fort Worth, TX, USA, 2017, pp. 6243-6246, doi:
-10.1109/IGARSS.2017.8128436.
+10.1109/IGARSS.2017.8128436.</p>
 
-[4] A. H. Saputro, M. M. Mustafa, A. Hussain, O. Maskon and I. F. M. Nor,
+<p align="justify"> [4] A. H. Saputro, M. M. Mustafa, A. Hussain, O. Maskon and I. F. M. Nor,
 "Myocardial motion analysis using optical flow and wavelet
 decomposition," 2010 6th International Colloquium on Signal Processing
 and its Applications, Malacca, Malaysia, 2010, pp. 1-5, doi:
-10.1109/CSPA.2010.5545258.
+10.1109/CSPA.2010.5545258.</p>
 
-[5] A. Shafaei and J. J. Little, "Real-Time Human Motion Capture with
+<p align="justify">[5] A. Shafaei and J. J. Little, "Real-Time Human Motion Capture with
 Multiple Depth Cameras," 2016 13th Conference on Computer and Robot
 Vision (CRV), Victoria, BC, Canada, 2016, pp. 24-31, doi:
-10.1109/CRV.2016.25.
+10.1109/CRV.2016.25.</p>
 
-[6] S. Sun, Z. Kuang, L. Sheng, W. Ouyang and W. Zhang, "Optical Flow
+<p align="justify">[6] S. Sun, Z. Kuang, L. Sheng, W. Ouyang and W. Zhang, "Optical Flow
 Guided Feature: A Fast and Robust Motion Representation for Video Action
 Recognition," 2018 IEEE/CVF Conference on Computer Vision and Pattern
 Recognition, Salt Lake City, UT, USA, 2018, pp. 1390-1399, doi:
-10.1109/CVPR.2018.00151.
+10.1109/CVPR.2018.00151.</p>
 
-[7] M. Xavier, A. Lalande, P. M. Walker, F. Brunotte and L. Legrand, "An
+<p align="justify">[7] M. Xavier, A. Lalande, P. M. Walker, F. Brunotte and L. Legrand, "An
 Adapted Optical Flow Algorithm for Robust Quantification of Cardiac Wall
 Motion From Standard Cine-MR Examinations," in IEEE Transactions on
 Information Technology in Biomedicine, vol. 16, no. 5, pp. 859-868, Sept.
-2012, doi: 10.1109/TITB.2012.2204893.
-63
-[8] A. Kumar, A. Tannenbaum and G. Balas, "Optical flow: a curve evolution
+2012, doi: 10.1109/TITB.2012.2204893.</p>
+
+<p align="justify">[8] A. Kumar, A. Tannenbaum and G. Balas, "Optical flow: a curve evolution
 approach," Proceedings., International Conference on Image Processing, Washington, DC, USA, 1995, pp. 17-20 vol.3, doi:
-10.1109/ICIP.1995.537569.
+10.1109/ICIP.1995.537569.</p>
 
-[9] A. del Bimbo, P. Nesi and J. L. C. Sanz, "Optical flow computation using
+<p align="justify">[9] A. del Bimbo, P. Nesi and J. L. C. Sanz, "Optical flow computation using
 extended constraints," in IEEE Transactions on Image Processing, vol. 5, no.
-5, pp. 720-739, May 1996, doi: 10.1109/83.495956.
+5, pp. 720-739, May 1996, doi: 10.1109/83.495956.</p>
 
-[10] A. Talukder, S. Goldberg, L. Matthies and A. Ansar, "Real-time
+<p align="justify">[10] A. Talukder, S. Goldberg, L. Matthies and A. Ansar, "Real-time
 detection of moving objects in a dynamic scene from moving robotic
 vehicles," Proceedings 2003 IEEE/RSJ International Conference on
 Intelligent Robots and Systems (IROS 2003) (Cat. No.03CH37453), Las
 Vegas, NV, USA, 2003, pp. 1308-1313 vol.2, doi:
-10.1109/IROS.2003.1248826.
+10.1109/IROS.2003.1248826.</p>
 
-[11] -Optical flowA combined local-global approach using L1 norm Marius
+<p align="justify">[11] -Optical flowA combined local-global approach using L1 norm Marius
 Drulea1, Ioan Radu Peter2. (n.d.). In Romania Computer Science
-Department, Department of Mathematics Marius.
+Department, Department of Mathematics Marius.</p>
 
-[12] Dosovitskiy, A., Fischer, P., Ilg, E., Hausser, P., Hazirbas, C., Golkov, V.,
+<p align="justify">[12] Dosovitskiy, A., Fischer, P., Ilg, E., Hausser, P., Hazirbas, C., Golkov, V.,
 Smagt, P. van der, Cremers, D., and Brox, T. (2015). FlowNet: Learning
 optical flow with convolutional networks. 2015 IEEE International
-Conference on Computer Vision (ICCV), 2758–2766.
+Conference on Computer Vision (ICCV), 2758–2766.</p>
 
-[13] E. Ilg, N. Mayer, T. Saikia, M. Keuper, A. Dosovitskiy and T. Brox,
+<p align="justify">[13] E. Ilg, N. Mayer, T. Saikia, M. Keuper, A. Dosovitskiy and T. Brox,
 "FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks,"
 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR),
-Honolulu, HI, USA, 2017, pp. 1647-1655, doi: 10.1109/CVPR.2017.179.
-[14] L. Y. Siong, S. S. Mokri, A. Hussain, N. Ibrahim and M. M. Mustafa,
+Honolulu, HI, USA, 2017, pp. 1647-1655, doi: 10.1109/CVPR.2017.179.</p>
+
+<p align="justify">[14] L. Y. Siong, S. S. Mokri, A. Hussain, N. Ibrahim and M. M. Mustafa,
 "Motion detection using Lucas-Kanade algorithm and application
 enhancement," 2009 International Conference on Electrical Engineering
 and Informatics, Bangi, Malaysia, 2009, pp. 537-542, doi:
-10.1109/ICEEI.2009.5254757.
+10.1109/ICEEI.2009.5254757.</p>
 
-[15] D. Zhang and G. Lu, "An edge and color oriented optical flow
+<p align="justify">[15] D. Zhang and G. Lu, "An edge and color oriented optical flow
 estimation using block matching," WCC 2000 ICSP 2000. 2000 5th
 International Conference on Signal Processing Proceedings. 16th World
 Computer Congress 2000, Beijing, China, 2000, pp. 1026-1032 vol.2, doi:
-10.1109/ICOSP.2000.891703.
+10.1109/ICOSP.2000.891703.</p>
 
-[16] R. Pericet-Camara, G. Bahi-Vila, J. Lecoeur and D. Floreano, "Miniature
+<p align="justify"> [16] R. Pericet-Camara, G. Bahi-Vila, J. Lecoeur and D. Floreano, "Miniature
 artificial compound eyes for optic-flow-based robotic navigation," 2014
 64 13th Workshop on Information Optics (WIO), Neuchatel, Switzerland, 2014,
-pp. 1-3, doi: 10.1109/WIO.2014.6933290.
+pp. 1-3, doi: 10.1109/WIO.2014.6933290.</p>
 
-[17] B. Zhang, "Computer vision vs. human vision," 9th IEEE International
+<p align="justify">[17] B. Zhang, "Computer vision vs. human vision," 9th IEEE International
 Conference on Cognitive Informatics (ICCI'10), Beijing, China, 2010, pp. 3-3,
-doi: 10.1109/COGINF.2010.5599750.
+doi: 10.1109/COGINF.2010.5599750.</p>
 
-[18] K. Kale, S. Pawar and P. Dhulekar, "Moving object tracking using optical
+<p align="justify"> [18] K. Kale, S. Pawar and P. Dhulekar, "Moving object tracking using optical
 flow and motion vector estimation," 2015 4th International Conference on
 Reliability, Infocom Technologies and Optimization (ICRITO) (Trends and
 Future Directions), Noida, India, 2015, pp. 1-6, doi:
-10.1109/ICRITO.2015.7359323.
+10.1109/ICRITO.2015.7359323.</p>
 
-[19] Y. LeCun, B. Boser, J. S. Denker, D. Henderson, R. E. Howard, W.
+<p align="justify">[19] Y. LeCun, B. Boser, J. S. Denker, D. Henderson, R. E. Howard, W.
 Hubbard, and L. D. Jackel. Backpropagation applied to handwritten zip code
-recognition. Neural Computation, 1(4):541–551, 1989
+recognition. Neural Computation, 1(4):541–551, 1989 </p>
 
-[20] A. Krizhevsky, I. Sutskever, and G. E. Hinton. Imagenet classification
-with deep convolutional neural networks. In NIPS, pages 1106–1114, 2012.
+<p align="justify"> [20] A. Krizhevsky, I. Sutskever, and G. E. Hinton. Imagenet classification
+with deep convolutional neural networks. In NIPS, pages 1106–1114, 2012.</p>
 
-[21] R. Jonschkowski, A. Stone, J. T., Barron, A. Gordon, K. Konolige, A.
+<p align="justify">[21] R. Jonschkowski, A. Stone, J. T., Barron, A. Gordon, K. Konolige, A.
 Angelova (2020). What Matters in Unsupervised Optical Flow. In: A. Vedaldi, H. Bischof, T. Brox,J. M. Frahm (eds) Computer Vision ECCV 2020.
 ECCV 2020. Lecture Notes in Computer Science(), vol 12347. Springer,
-Cham. https://doi.org/10.1007/978-3-030-58536-5_33
+Cham. https://doi.org/10.1007/978-3-030-58536-5_33</p>
 
-[22] D. J. Fleet and Y. Weiss (n.d.). Optical Flow Estimation. Toronto.edu.
+<p align="justify">[22] D. J. Fleet and Y. Weiss (n.d.). Optical Flow Estimation. Toronto.edu.
 Retrieved July 31, 2023, from
-https://www.cs.toronto.edu/~fleet/research/Papers/flowChapter05.pdf
+https://www.cs.toronto.edu/~fleet/research/Papers/flowChapter05.pdf</p>
 
 [23] T-W. Hui, X. Tang and C. C. Loy, "LiteFlowNet: A Lightweight
 Convolutional Neural Network for Optical Flow Estimation," 2018 IEEE/CVF
