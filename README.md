@@ -43,7 +43,7 @@
 
 - Analysed the parameters such as error metrics, execution Time, memory usage, temperature, the performance of activation functions, the performance of Cameras, 95 % confidence test and independent t-test visually through data visualisation tools such as Tableau.
 
-<h2 align="left">References</h2>
+<h2 align="left" style="text-align: justify;">References</h2>
 
 [1] S. Deqing, S. Roth and M.J. Black, "Secrets of optical flow estimation
 and their principles", 2010 IEEE computer society conference on Computer
